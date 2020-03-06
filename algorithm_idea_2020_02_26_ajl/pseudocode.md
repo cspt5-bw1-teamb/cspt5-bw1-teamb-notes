@@ -36,6 +36,7 @@ The starting room is on the left
     - End Room (_|) (I don't know put a treasure trest here)
 
 1. Create a hundred rooms using a For Loop (pulling name, and description) (put them in a list?)
+   - Use built-in `save()` method to add Room to db following room creation/instantiation 
 
 2. Run a For loop to connect the rooms and according to the room index (if it's 20th room, it gets to be |7| and if it's the last room, i.e. room_list[99] |_|| )
 
